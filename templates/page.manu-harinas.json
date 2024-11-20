@@ -1,0 +1,100 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_NQ9QLV": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_Xa7FB3": {
+          "type": "heading",
+          "settings": {
+            "heading": "harinas y mejorantes",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Xa7FB3"
+      ],
+      "custom_css": [
+        "h2 {font-weight: bold; font-size: 3.5rem; text-transform: uppercase;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/harina.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "h1 {display: none;}",
+        "p {text-align: center;}"
+      ],
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "collection_list_fCY6Vf": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_tLNhgk": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "harina-de-trigo"
+          }
+        },
+        "featured_collection_RWCpnz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "harinas-preparadas"
+          }
+        },
+        "featured_collection_YN6teY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "levadura-y-mejorantes"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_tLNhgk",
+        "featured_collection_RWCpnz",
+        "featured_collection_YN6teY"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "color_scheme": "background-2",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner_NQ9QLV",
+    "main",
+    "collection_list_fCY6Vf"
+  ]
+}

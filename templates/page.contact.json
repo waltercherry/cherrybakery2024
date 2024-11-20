@@ -1,0 +1,72 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_fimh3E": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_dPHYWQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "atención al cliente",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dPHYWQ"
+      ],
+      "custom_css": [
+        "h2 {text-transform: uppercase; font-weight: bold; font-size: 3.5rem;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/materias-primas.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "heading": "<strong>ESTAMOS PARA BRINDARTE LA MEJOR ATENCIÓN</strong>",
+        "heading_size": "h2",
+        "color_scheme": "background-2",
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "h1 {display: none;}"
+      ],
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner_fimh3E",
+    "form",
+    "main"
+  ]
+}

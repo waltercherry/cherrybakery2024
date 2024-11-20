@@ -1,0 +1,91 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "¡Aprovecha! Envío gratis",
+            "link": ""
+          }
+        },
+        "announcement_tYhtDc": {
+          "type": "announcement",
+          "settings": {
+            "text": "En compras superiores a $1,000",
+            "link": ""
+          }
+        },
+        "announcement_GKEtPF": {
+          "type": "announcement",
+          "settings": {
+            "text": "solo dentro de la República Mexicana",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0",
+        "announcement_tYhtDc",
+        "announcement_GKEtPF"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "show_line_separator": false,
+        "show_social": false,
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "enable_country_selector": true,
+        "enable_language_selector": false
+      }
+    },
+    "custom_liquid_t48mgW": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "@media (max-width: 768px) {.custom-menu {display: none; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<nav class=\"menu-superior\">\n  {% for link in linklists['menu-superior'].links %}\n    <a href=\"{{ link.url }}\">{{ link.title }}</a>\n  {% endfor %}\n</nav>",
+        "color_scheme": "accent-2",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "header": {
+      "type": "header",
+      "custom_css": [],
+      "settings": {
+        "logo_position": "top-center",
+        "menu": "main-menu",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "show_line_separator": true,
+        "color_scheme": "scheme-82ec1847-fffe-428b-9d08-97eb1c7c1947",
+        "menu_color_scheme": "scheme-2fdcf1af-db31-4761-ab76-72c1783e6d21",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "custom_liquid_t48mgW",
+    "header"
+  ]
+}

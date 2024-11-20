@@ -1,0 +1,163 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_9BNihw": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_6WbCYK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pastel de Crepas",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6WbCYK"
+      ],
+      "custom_css": [
+        "h2 {text-transform: uppercase; font-size: 3.5rem; font-weight: bold;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/crepas05.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_8gXRnT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qXnmEY": {
+          "type": "heading",
+          "settings": {
+            "heading": "¡Atrévete a Crear Tu Propio Pastel de Crepas!",
+            "heading_size": "h2"
+          }
+        },
+        "text_pC4MaM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Con nuestros consejos y trucos, te aseguramos que preparar un pastel de crepas será una experiencia divertida y gratificante. Cada capa es una oportunidad para agregar tu toque personal y experimentar con nuevos sabores.</p>"
+          }
+        },
+        "button_JXEbLh": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ver paso a paso",
+            "button_link": "https://cherrybakery.com/recetas/pastel-de-crepas/",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qXnmEY",
+        "text_pC4MaM",
+        "button_JXEbLh"
+      ],
+      "custom_css": [
+        "h2 {color: #ff2323; font-weight: bold; text-transform: uppercase;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "custom_css": [
+        "aside {box-shadow: 0 0 2px #000;}"
+      ],
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "color_scheme": "background-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        ".collection-hero__title {display: none;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "inverse"
+      }
+    },
+    "newsletter_LVbBYV": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_ReFAEC": {
+          "type": "heading",
+          "settings": {
+            "heading": "¿Quieres saber cuándo es nuestro siguiente live?",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_VqEWba": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Déjanos tu correo electrónico para compartirte nuestras últimas noticias</p>"
+          }
+        },
+        "email_form_9Rf9yy": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_ReFAEC",
+        "paragraph_VqEWba",
+        "email_form_9Rf9yy"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "image_banner_9BNihw",
+    "rich_text_8gXRnT",
+    "product-grid",
+    "banner",
+    "newsletter_LVbBYV"
+  ]
+}

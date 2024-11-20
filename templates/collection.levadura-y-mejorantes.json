@@ -1,0 +1,95 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_VgwrH4": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_FQ9qqq": {
+          "type": "heading",
+          "settings": {
+            "heading": "levadura y mejorantes",
+            "heading_size": "h1"
+          }
+        },
+        "text_CDh3f7": {
+          "type": "text",
+          "settings": {
+            "text": "dale ese plus a tu pan",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FQ9qqq",
+        "text_CDh3f7"
+      ],
+      "custom_css": [
+        "h2 {text-transform: uppercase; font-size: 3.5rem; font-weight: bold;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/materias-levadura.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "h1 {display: none;}",
+        "p {text-align: center;}",
+        ".collectionbrands {display: flex; justify-content: center; align-content: center; flex-wrap: wrap;}",
+        "a {width: 20%; min-width: 80px; margin: 0.5em; overflow: hidden; animation: all 0.2 ease;}",
+        "a:hover {transform: scale(1.1);}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-2"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "custom_css": [
+        "aside {box-shadow: 0 0 2px #000;}"
+      ],
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "color_scheme": "background-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner_VgwrH4",
+    "banner",
+    "product-grid"
+  ]
+}

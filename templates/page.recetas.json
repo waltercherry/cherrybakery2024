@@ -1,0 +1,240 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_GTnRiE": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_fNtxcq": {
+          "type": "heading",
+          "settings": {
+            "heading": "prepara tu pastel",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_fNtxcq"
+      ],
+      "custom_css": [
+        "h2 {text-transform: uppercase; font-size: 3.5rem; font-weight: bold;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/seccion-pasteles2.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "h1 {display: none;}"
+      ],
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "collection_list_BzLNXN": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_ymgVhV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "croissant-tricolor"
+          }
+        },
+        "featured_collection_7jiebp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "churros-rellenos"
+          }
+        },
+        "featured_collection_wU8ae7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ninos-y-dulces"
+          }
+        },
+        "featured_collection_HEc3pJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "volteados-y-malteadas"
+          }
+        },
+        "featured_collection_bTJWmi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "new-york-cookies"
+          }
+        },
+        "featured_collection_4dpEpT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pizza-de-calle"
+          }
+        },
+        "featured_collection_tMHxhA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "donas-y-decoracion"
+          }
+        },
+        "featured_collection_mDPdDf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tarta-de-maracuya"
+          }
+        },
+        "featured_collection_7ypJKb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pastel-dia-de-las-madres"
+          }
+        },
+        "featured_collection_f73eGr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pastel-de-crepas"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_ymgVhV",
+        "featured_collection_7jiebp",
+        "featured_collection_wU8ae7",
+        "featured_collection_HEc3pJ",
+        "featured_collection_bTJWmi",
+        "featured_collection_4dpEpT",
+        "featured_collection_tMHxhA",
+        "featured_collection_mDPdDf",
+        "featured_collection_7ypJKb",
+        "featured_collection_f73eGr"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "color_scheme": "background-2",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_4yhDKL": {
+      "type": "rich-text",
+      "blocks": {
+        "text_wXUcLt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Prepara tus utensilios, enciende tu horno y prepárate para adentrarte en un mundo de sabor, texturas y aromas irresistibles. ¡Atrévete a dar rienda suelta a tu creatividad y descubre el placer de hornear con nosotros en \"Prepara tu Pastel\"!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_wXUcLt"
+      ],
+      "custom_css": [],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "featured_collection_BiKwAU": {
+      "type": "featured-collection",
+      "custom_css": [
+        "h2 {font-weight: bold; font-size: 3.5rem; text-align: center; text-transform: uppercase; color: #ff2323;}"
+      ],
+      "settings": {
+        "title": "¡Nuestras sugerencias!",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "prepara-tu-pastel",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_FQxEPj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zY9XJa": {
+          "type": "heading",
+          "settings": {
+            "heading": "¡No te pierdas ni una semana de delicias! ¡Tu próxima obra maestra repostera está a solo un clic de distancia!",
+            "heading_size": "h2"
+          }
+        },
+        "button_ypJhnb": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ir a Facebook",
+            "button_link": "https://www.facebook.com/CherryBakeryMateriasPrimas",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_zY9XJa",
+        "button_ypJhnb"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "image_banner_GTnRiE",
+    "main",
+    "collection_list_BzLNXN",
+    "rich_text_4yhDKL",
+    "featured_collection_BiKwAU",
+    "rich_text_FQxEPj"
+  ]
+}

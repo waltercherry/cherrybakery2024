@@ -1,0 +1,119 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        ".collection-hero__title {color: #ff2323; font-weight: bold;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "custom_css": [],
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "vertical",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_eTiz3b": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_VCWHqH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pastel-de-crepas"
+          }
+        },
+        "featured_collection_Rz3YG3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pastel-dia-de-las-madres"
+          }
+        },
+        "featured_collection_Vixw4A": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tarta-de-maracuya"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_VCWHqH",
+        "featured_collection_Rz3YG3",
+        "featured_collection_Vixw4A"
+      ],
+      "settings": {
+        "title": "¡Aquí tienes unas opciones!",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_QqbqTM": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Te podría interesar",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "harinas-preparadas",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-2fdcf1af-db31-4761-ab76-72c1783e6d21",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "collection_list_eTiz3b",
+    "featured_collection_QqbqTM"
+  ]
+}

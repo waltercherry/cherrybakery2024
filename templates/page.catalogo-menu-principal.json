@@ -1,0 +1,106 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "collection_list_mNcHLr": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_p4NLiE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "harinas-preparadas"
+          }
+        },
+        "featured_collection_xYpWa6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "chips-de-chocolate"
+          }
+        },
+        "featured_collection_wmRqRF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cobertura-para-pan"
+          }
+        },
+        "featured_collection_KEtqje": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "rellenos-y-mermeladas"
+          }
+        },
+        "featured_collection_4DeAgf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "crema-pastelera"
+          }
+        },
+        "featured_collection_aaaqQq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "harina-de-trigo"
+          }
+        },
+        "featured_collection_EcjzEh": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "levadura-y-mejorantes"
+          }
+        },
+        "featured_collection_9zVQUT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mantequilla-margarina"
+          }
+        },
+        "featured_collection_6wrAiV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "saborizantes"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_p4NLiE",
+        "featured_collection_xYpWa6",
+        "featured_collection_wmRqRF",
+        "featured_collection_KEtqje",
+        "featured_collection_4DeAgf",
+        "featured_collection_aaaqQq",
+        "featured_collection_EcjzEh",
+        "featured_collection_9zVQUT",
+        "featured_collection_6wrAiV"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "color_scheme": "background-2",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "collection_list_mNcHLr",
+    "main"
+  ]
+}

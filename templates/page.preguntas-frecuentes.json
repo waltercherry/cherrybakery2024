@@ -1,0 +1,128 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "h1 {display: none;}"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 28
+      }
+    },
+    "collapsible_content_MWzizM": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_Lz3BbU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Puedo estar seguro de que, al comprar a través de Internet, no utilizarán mis datos para otros usos?",
+            "icon": "none",
+            "row_content": "<p>¡Hola! Comprar por Internet es súper conveniente y entiendo que la seguridad de tus datos es muy importante. Quiero asegurarte que en nuestro sitio web, tomamos la privacidad y la seguridad de tu información muy en serio.</p><p>Utilizamos tecnología de encriptación avanzada para proteger tus datos personales y financieros. Además, seguimos estrictas políticas de privacidad y cumplimos con todas las regulaciones vigentes para asegurar que tus datos no se utilicen para otros fines sin tu consentimiento.</p><p>Nuestro compromiso es ofrecerte una experiencia de compra segura y confiable. Puedes estar tranquilo sabiendo que tus datos estarán protegidos en cada paso del proceso.</p><p>¡Felices compras y gracias por confiar en nosotros! 🌟</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xtG3wG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Cuál es el horario de compra y de atención a clientes de Internet?",
+            "icon": "none",
+            "row_content": "<p>El horario de compra es 24 horas a través de internet. </p><p>El horario de atención a clientes, surtido y seguimiento de pedidos es de lunes a viernes de 8:00 am a 5:00 pm</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_NUGPcJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Cuánto tiempo tardan en embarcar un pedido?",
+            "icon": "none",
+            "row_content": "<p>Tenemos como compromiso con nuestros clientes embarcar un pedido a más tardar en las 24 horas siguientes a su compra, para inmediatamente ser enviado a la paquetería para su traslado.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_F8VaMV": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Puedo navegar en su sitio web sin que realicen un cargo a mi crédito?",
+            "icon": "none",
+            "row_content": "<p>Nuestro portal es totalmente gratuito, no realizaremos un solo cargo hasta que usted haya decidido realizar una compra y haya autorizado su pago.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xQt3qz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Cómo puedo saber cuál es el monto total que tendré que pagar?",
+            "icon": "none",
+            "row_content": "<p>En la pasarela de pago se desglosará puntualmente el concepto de cada cargo enlistado en su ticket. Aquí mismo se aplican descuentos y promociones.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_NjrAW6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Cómo puedo saber que mi orden ha sido recibida y aceptada?",
+            "icon": "none",
+            "row_content": "<p>Al término de su compra en nuestro portal cherrybakery.shop, enviamos un mail a su bandeja de entrada con la confirmación de pago y los detalles correspondientes a su compra.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_rV3E69": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Cómo será entregado mi pedido?",
+            "icon": "none",
+            "row_content": "<p>El servicio de paquetería se realiza a través de un socio comercial quien se encargará de que tu pedido sea transportado con los cuidados necesarios para que tu paquete llegue en las mejores condiciones a tu domicilio.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_6g3fdm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Realizan cursos en línea?",
+            "icon": "none",
+            "row_content": "<p>Contamos con una sección semanal en conjunto con la escuela de cocina \"Le Crois\", en dónde preparamos recetas de moda con un toque diferente y divertido. Acompáñanos</p><p></p><p>https://www.facebook.com/CherryBakeryMateriasPrimas/events</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_Lz3BbU",
+        "collapsible_row_xtG3wG",
+        "collapsible_row_NUGPcJ",
+        "collapsible_row_F8VaMV",
+        "collapsible_row_xQt3qz",
+        "collapsible_row_NjrAW6",
+        "collapsible_row_rV3E69",
+        "collapsible_row_6g3fdm"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "background-2",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "collapsible_content_MWzizM"
+  ]
+}

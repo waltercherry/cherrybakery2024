@@ -1,0 +1,149 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_WPGXTM": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_4eLLDz": {
+          "type": "heading",
+          "settings": {
+            "heading": "harina de trigo",
+            "heading_size": "h1"
+          }
+        },
+        "text_AeaLNT": {
+          "type": "text",
+          "settings": {
+            "text": "esencial para el panadero",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4eLLDz",
+        "text_AeaLNT"
+      ],
+      "custom_css": [
+        "h2 {font-weight: bold; font-size: 3.5rem; text-transform: uppercase;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/harina-trigo.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "h1 {display: none;}",
+        "p {text-align: center;}",
+        ".collectionbrands {display: flex; justify-content: center; align-content: center; flex-wrap: wrap;}",
+        "a {width: 20%; min-width: 80px; margin: 0.5em; overflow: hidden; animation: all 0.2 ease;}",
+        "a:hover {transform: scale(1.1);}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-2"
+      }
+    },
+    "collection_list_6iKJch": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_VPYBn9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "harina-espiga"
+          }
+        },
+        "featured_collection_RiBXqq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "harina-independencia"
+          }
+        },
+        "featured_collection_bh7CQw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "harina-rancherita"
+          }
+        },
+        "featured_collection_mceFAc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "harina-selecta"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_VPYBn9",
+        "featured_collection_RiBXqq",
+        "featured_collection_bh7CQw",
+        "featured_collection_mceFAc"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h3 {height: 1px; color: #ffffff;}",
+        ".collection-list {display: flex; justify-content: space-between;}",
+        ".collection-list__item {width: 18%; min-width: 120px;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "custom_css": [
+        "aside {box-shadow: 0 0 2px #000;}"
+      ],
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "color_scheme": "background-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner_WPGXTM",
+    "banner",
+    "collection_list_6iKJch",
+    "product-grid"
+  ]
+}

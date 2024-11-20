@@ -1,0 +1,232 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_whUq3P": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_BrEJfn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Churros rellenos",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BrEJfn"
+      ],
+      "custom_css": [
+        "h2 {text-transform: uppercase; font-size: 3.5rem; font-weight: bold;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/churros.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "featured_product_peHnKt": {
+      "type": "featured-product",
+      "blocks": {
+        "text_YRBchq": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_TLHbhY": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_X8EtTU": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_6BD4NE": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_GHtyy3": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_irLp3Y": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_PnPxeG": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_YRBchq",
+        "title_TLHbhY",
+        "price_X8EtTU",
+        "variant_picker_6BD4NE",
+        "quantity_selector_GHtyy3",
+        "buy_buttons_irLp3Y",
+        "share_PnPxeG"
+      ],
+      "settings": {
+        "product": "harina-mix-churros-dawn",
+        "color_scheme": "background-2",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_CkRBfP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7QEhHp": {
+          "type": "heading",
+          "settings": {
+            "heading": "¡Crujientes y doraditos!",
+            "heading_size": "h2"
+          }
+        },
+        "text_YWGwBB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Descubre el sabor irresistible de nuestros churros preparados con recetas exclusivas! Perfectos para cualquier ocasión, nuestros churros te transportarán a un mundo de dulzura y satisfacción.</p>"
+          }
+        },
+        "button_gW4y7H": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ver paso a paso",
+            "button_link": "https://cherrybakery.com/recetas/tarta-de-maracuya/",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_7QEhHp",
+        "text_YWGwBB",
+        "button_gW4y7H"
+      ],
+      "custom_css": [
+        "h2 {color: #6d4c41; font-weight: bold; text-transform: uppercase;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "custom_css": [
+        "aside {box-shadow: 0 0 2px #000;}"
+      ],
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "color_scheme": "background-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "vertical",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        ".collection-hero__title {display: none;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "accent-2"
+      }
+    },
+    "newsletter_JTDWbt": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_bCxhgn": {
+          "type": "heading",
+          "settings": {
+            "heading": "¿Quieres saber cuándo es nuestro siguiente live?",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_3TgMAn": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Déjanos tu correo electrónico para compartirte nuestras últimas noticias</p>"
+          }
+        },
+        "email_form_CHrm8J": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_bCxhgn",
+        "paragraph_3TgMAn",
+        "email_form_CHrm8J"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "image_banner_whUq3P",
+    "featured_product_peHnKt",
+    "rich_text_CkRBfP",
+    "product-grid",
+    "banner",
+    "newsletter_JTDWbt"
+  ]
+}

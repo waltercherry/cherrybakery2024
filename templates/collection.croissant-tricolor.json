@@ -1,0 +1,163 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_whUq3P": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_BrEJfn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Croissant Tricolor",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BrEJfn"
+      ],
+      "custom_css": [
+        "h2 {text-transform: uppercase; font-size: 3.5rem; font-weight: bold;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/cuernitostricolor.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_CkRBfP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7QEhHp": {
+          "type": "heading",
+          "settings": {
+            "heading": "¡Anímate a Prepararla en Casa!",
+            "heading_size": "h2"
+          }
+        },
+        "text_YWGwBB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Con nuestras instrucciones claras y sencillas, hacer una tarta de maracuyá será una experiencia divertida y satisfactoria. No necesitas ser un experto en repostería para lograr un postre delicioso y bonito.</p>"
+          }
+        },
+        "button_gW4y7H": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ver paso a paso",
+            "button_link": "https://cherrybakery.com/recetas/croissant-tricolor-con-motivo-patrio/",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_7QEhHp",
+        "text_YWGwBB",
+        "button_gW4y7H"
+      ],
+      "custom_css": [
+        "h2 {color: #6d4c41; font-weight: bold; text-transform: uppercase;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "custom_css": [
+        "aside {box-shadow: 0 0 2px #000;}"
+      ],
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "color_scheme": "background-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        ".collection-hero__title {display: none;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "inverse"
+      }
+    },
+    "newsletter_JTDWbt": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_bCxhgn": {
+          "type": "heading",
+          "settings": {
+            "heading": "¿Quieres saber cuándo es nuestro siguiente live?",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_3TgMAn": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Déjanos tu correo electrónico para compartirte nuestras últimas noticias</p>"
+          }
+        },
+        "email_form_CHrm8J": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_bCxhgn",
+        "paragraph_3TgMAn",
+        "email_form_CHrm8J"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "image_banner_whUq3P",
+    "rich_text_CkRBfP",
+    "product-grid",
+    "banner",
+    "newsletter_JTDWbt"
+  ]
+}
